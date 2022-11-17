@@ -1,7 +1,6 @@
-# Blockchain Medical Record System
+# Blockchain Stem Cell Record System
 
-## Full Project Demo
-https://www.youtube.com/watch?v=JIswvyxmw3k&t=0s
+
 
 ## Setup
 1. Download Metamask Extension from chrome
